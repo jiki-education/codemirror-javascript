@@ -32,7 +32,7 @@
     "@codemirror/state": "^6.0.0",
     "@codemirror/view": "^6.17.0",
     "@lezer/common": "^1.0.0",
-    "@lezer/javascript": "^1.0.0"
+    "@lezer/javascript": "github:jiki-education/lezer-javascript"
   },
   "devDependencies": {
     "@codemirror/buildhelper": "^1.0.0",
